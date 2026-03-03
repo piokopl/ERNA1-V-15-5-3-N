@@ -1,4 +1,4 @@
-# ERNA2-V-15-5-3-N Polymarket crypto trading bot
+# ERNA2-V-15-5-3-N Polymarket M15 crypto trading bot
 
 A bot for trading Polymarket 15-minute markets using an VKI strategy with a Martingale 2.0 sizing system.
 
